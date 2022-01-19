@@ -1,10 +1,10 @@
 First line in file README
 
 # Local .terraform directories
-<**/.terraform/*> - игнорироваать все вложенное в папку ".terraform" (где бы эта папка не находилась, не выше Terraform по иерархии) 
+< **/.terraform/* > - игнорироваать все вложенное в папку ".terraform" (где бы эта папка не находилась, не выше Terraform по иерархии) 
 
 # .tfstate files
-<*.tfstate> - игнорироваать все файлы, оканчивающиеся на ".tfstate" (во всех папках, не выше Terraform)
+< *.tfstate > - игнорироваать все файлы, оканчивающиеся на ".tfstate" (во всех папках, не выше Terraform)
 (*.tfstate.*) - игнориировать все файлы, оканчивающиеся на ".tfstate.*" (во всех папках, не выше Terraform), где "*" - любой 0 или более символ
 
 # Crash log files
