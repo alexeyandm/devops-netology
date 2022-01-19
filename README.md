@@ -1,2 +1,1 @@
-# devops-netology
-Catalog for educational needs
+First line in file README
